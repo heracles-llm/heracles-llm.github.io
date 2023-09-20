@@ -1,1 +1,1 @@
-# heracles-llm.github.io
+# ltl-llm.github.io
